@@ -1,0 +1,45 @@
+Feature,Importance
+num__tenure,0.13996369610848955
+num__TotalCharges,0.1290316591370384
+num__MonthlyCharges,0.09299350846736366
+cat__Contract_Month-to-month,0.08768396266503448
+cat__TechSupport_No,0.05324301143653475
+cat__PaymentMethod_Electronic check,0.040555608152099965
+cat__OnlineSecurity_No,0.03995108285799357
+cat__InternetService_Fiber optic,0.03838857144327863
+cat__Contract_Two year,0.03151932988103091
+cat__InternetService_DSL,0.021709691502549627
+cat__OnlineBackup_No,0.02161156329375948
+cat__DeviceProtection_No,0.02079966443004143
+cat__OnlineSecurity_Yes,0.018900680460816045
+cat__Contract_One year,0.015315095324530152
+cat__PaperlessBilling_Yes,0.014966259393379708
+cat__PaperlessBilling_No,0.014615822115900852
+cat__TechSupport_Yes,0.013910464063127905
+cat__MultipleLines_Yes,0.011217016726817084
+cat__gender_Female,0.010435672117722809
+cat__Dependents_Yes,0.010139379471807512
+cat__gender_Male,0.010137098146791814
+cat__OnlineBackup_Yes,0.0097495798489482
+cat__Partner_Yes,0.009588460081554591
+cat__Partner_No,0.009422419225077604
+cat__StreamingTV_Yes,0.00918908985697257
+cat__MultipleLines_No,0.009154778286125605
+cat__PaymentMethod_Credit card (automatic),0.009120421545918543
+cat__PaymentMethod_Bank transfer (automatic),0.008889591347512622
+cat__Dependents_No,0.008789904056362369
+cat__StreamingMovies_Yes,0.008533181887534137
+cat__StreamingMovies_No,0.008517405712362676
+cat__StreamingTV_No,0.007995642114783203
+cat__PaymentMethod_Mailed check,0.0078839152127924
+cat__OnlineSecurity_No internet service,0.007440724328690861
+cat__DeviceProtection_No internet service,0.0073653230854071276
+cat__DeviceProtection_Yes,0.006978363058397521
+cat__StreamingTV_No internet service,0.005769694483537645
+cat__InternetService_No,0.005638825832968039
+cat__StreamingMovies_No internet service,0.005228701222979717
+cat__OnlineBackup_No internet service,0.004470329851205332
+cat__MultipleLines_No phone service,0.0035439739802535057
+cat__PhoneService_No,0.003319055549131371
+cat__TechSupport_No internet service,0.0031785323993914773
+cat__PhoneService_Yes,0.003143249835984568
